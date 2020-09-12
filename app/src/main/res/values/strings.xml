@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gads20-practice-project</string>
+
+    <string name="top_learning_leaders">Top Learners</string>
+    <string name="top_iq_leaders">Top IQ Leaders</string>
+    <string name="no_item">No item</string>
+
+    <string name="submit">Submit</string>
+</resources>
